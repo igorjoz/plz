@@ -1,0 +1,2 @@
+1. w kolumnie E należy wziąć średnią z 2 możliwych współczynników elastyczności
+2. zaokr.do.całk zaokrągle W DÓŁ! - należało użyć zaokr.góra

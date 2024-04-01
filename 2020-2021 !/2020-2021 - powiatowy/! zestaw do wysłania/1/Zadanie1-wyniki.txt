@@ -1,0 +1,95 @@
+a)
+Lata	Ilość pracowników
+50-te	4
+60-te	4
+70-te	8
+80-te	9
+90-te	6
+2000 i wzwyż	3
+
+b)
+kod stanowiska	ilość pracowników	średnie wynagrodzenie
+1	5	9919,53
+2	10	4572,37
+3	7	5147,31
+4	6	14909,12
+5	6	3666,59
+
+c) Iksiński
+
+d)
+nazwisko	wynagrodzenie gdyby miał pełny etat
+Krasna	6 908,10
+Jasny	15 844,63
+Iksiński	6 484,00
+Ygrekowska	8 792,00
+Jacyniacki	15 480,00
+Kompetenta	3 227,93
+Sympatyczny	6 827,00
+Znana	4 526,67
+Abacka	4 657,00
+Babacki	4 116,57
+Cacykowski	4 084,00
+Duza	7 169,50
+Maly	12 865,00
+Gospodarny	5 576,89
+Zaradna	5 494,09
+Wysoka	7 644,00
+Niski	4 278,40
+Srednia	5 326,67
+Malkontent	3 000,20
+Amatorski	30 292,54
+Zawodowa	4 620,00
+Korzystna	4 056,84
+Niekonieczny	2 642,29
+Zadowolona	4 084,00
+Gładki	6 120,77
+Szczodra	29 251,00
+Papierowa	3 012,27
+Aluminiowy	4 750,55
+Kategoryczny	3 530,21
+Paradny	4 006,00
+Dokładna	36 878,00
+Drabiniasty	6 089,52
+Kołowy	3 825,00
+Miła	9 029,00
+
+
+e) 4
+
+f)
+nazwisko	dodatek
+Krasna	0
+Jasny	0
+Iksiński	0
+Ygrekowska	0
+Jacyniacki	0
+Kompetenta	0
+Sympatyczny	682,7
+Znana	0
+Abacka	465,7
+Babacki	360,2
+Cacykowski	0
+Duza	0
+Maly	0
+Gospodarny	0
+Zaradna	412,06
+Wysoka	0
+Niski	0
+Srednia	0
+Malkontent	281,27
+Amatorski	0
+Zawodowa	0
+Korzystna	0
+Niekonieczny	0
+Zadowolona	0
+Gładki	0
+Szczodra	2925,1
+Papierowa	0
+Aluminiowy	0
+Kategoryczny	0
+Paradny	0
+Dokładna	3687,8
+Drabiniasty	0
+Kołowy	0
+Miła	902,9

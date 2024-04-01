@@ -1,0 +1,18 @@
+1.
+projekt	K ostateczne	P - minimalna liczba pracowników
+1	180290,9112	13
+2	529355,2691	18
+3	462339,0028	17
+4	361841,645	16
+5	463572,8127	17
+6	150555,5662	12
+7	193164,7544	13
+8	367139,6043	16
+9	368856,4566	16
+10	300940,6641	15
+
+2. wykres w pliku
+
+3. potrzeba dodatkowo zatrudnić 48 pracowników
+
+4. dla b = 0,48

@@ -1,0 +1,15 @@
+a) sterta
+
+b)
+
+odkod = "" (pusty napis)
+wykonaj pętlę dł(t) razy, iteratorem jest zmienna i (zaczynając od 1) // Uwaga! jeśli teksty mają byc numerowane od 0 (tak jest opisane w tekście zadania), to i zaczyna się od 0
+	k = 2
+	startIndex = i
+	wykonaj pętlę n razy, iteratorem jest zmienna j (zaczynając od 1) // Uwaga! jeśli struktury mają byc numerowane od 1 (tak jest opisane w tekście zadania), to i zaczyna się od 1
+	jeżeli sk(t, i, k) == x[j].kod
+		odkod += x[j].znak (doklejenie do końca odkod)
+		i = startIndex + k - 1
+	jeżeli dł(x[j + 1].kod) != k
+		k++ (inkrementacja)
+wypisz odkod

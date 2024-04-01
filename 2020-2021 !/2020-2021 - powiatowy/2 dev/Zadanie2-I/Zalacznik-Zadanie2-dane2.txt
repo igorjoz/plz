@@ -1,0 +1,8 @@
+Grozny 10 1 4 7 18 22 27 34 44 49 59
+Laskawy 6 2 8 11 23 30 32
+Polubowny 8 3 12 19 29 33 45 50 56
+Natarczywy 8 5 13 35 37 43 46 57 60
+Kompetentna 7 6 21 28 36 41 51 58
+Marudny 7 9 14 20 26 38 47 52
+Dziwny 6 10 15 25 31 40 42
+Markotna 8 16 17 24 39 48 53 54 55

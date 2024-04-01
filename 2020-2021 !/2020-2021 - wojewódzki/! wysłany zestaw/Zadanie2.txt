@@ -1,0 +1,13 @@
+a) sterta
+
+b)
+
+odkod = "" (pusty napis)
+wykonuj pętlę dł(t) razy, iteratorem jest zmienna i (początkowa wartość to 1):
+	k = 2
+	wykonuj pętlę n razy, iteratorem jest zmienna j (początkowa wartość to 1):
+		jeśli sk(t, i, k) == x[j].kod:
+			odkod += x[j].znak
+		w innym wypadku:
+			k += 1
+wypisz odkod

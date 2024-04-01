@@ -1,0 +1,7 @@
+-podać nazwę kompilatora, wersję itd. (z regulaminu)
+-dokładnie takie same pliki z danymi jak podane
+-nie wolno użwać zewnętrznych bibliotek
+-program nie może tworzyć innych plików/procesów itd.
+-nie powinno być conio.h lub windows.h otd
+-nie trzeba testować poprawności danych (dane wejściowe są zawsze prawdziwe)
+-trzeba oddać plik z realizacją zadań oraz plik tekstowy z odpowiedziami

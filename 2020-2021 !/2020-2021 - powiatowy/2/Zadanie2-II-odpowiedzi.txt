@@ -1,0 +1,70 @@
+1. powtarzające się rejestracje:
+NWE4941
+RLU9802
+BI45035
+RTA3127
+NWE4018
+
+2.
+LINK4
+COMPENSA
+GENERALI
+PZU
+
+3.
+ONY9423	Marudny
+RLU9802	Grozny
+RTA3127	Dziwny
+
+4.
+Nazwisko	Suma (dla policjanta i w rozbiciu na ubezpieczycieli)
+
+Dziwny	22630
+ERGO-HESTIA	2874
+LINK4	12543
+PZU	7213
+
+Grozny	68210
+COMPENSA	8019
+GENERALI	18000
+PZU	18240
+WARTA	23951
+
+Kompetentna	23901
+COMPENSA	1771
+GENERALI	9664
+LINK4	3794
+PZU	4462
+WARTA	4210
+
+Laskawy	31619
+COMPENSA	15056
+GENERALI	9455
+PZU	3196
+WARTA	3912
+
+Markotna	45315
+GENERALI	8701
+LINK4	19247
+PZU	17367
+
+Marudny	40777
+PZU	38101
+WARTA	2676
+
+Natarczywy	41441
+COMPENSA	8892
+GENERALI	8342
+LINK4	2862
+PZU	21345
+
+Polubowny	40705
+ERGO-HESTIA	15756
+LINK4	12036
+PZU	2462
+WARTA	10451
+
+5. wynik zapytania dla wypadku numer 50:
+Data	Numer rejestracyjny	Nazwisko policjanta sporządzającego raport powypadkowy
+06.09.1999	KRA5053	Polubowny
+

@@ -1,0 +1,2 @@
+środowisko programistyczne wykorzystane do stworzenia programów:
+Microsoft Visual Studio (Windows 10)

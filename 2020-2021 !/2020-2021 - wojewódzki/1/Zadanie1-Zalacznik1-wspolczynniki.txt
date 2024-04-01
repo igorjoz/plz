@@ -1,0 +1,6 @@
+Kategoria	Typowoœæ	Elastycznoœæ	Zarz¹dzanie ryzykiem	Spójnoœæ zespo³u
+1	6,2	5,07	7,07	5,48
+2	4,96	4,05	5,65	4,38
+3	3,72	3,04	4,24	3,29
+4	2,48	2,03	2,83	2,19
+5	1,24	1,01	1,41	1,1

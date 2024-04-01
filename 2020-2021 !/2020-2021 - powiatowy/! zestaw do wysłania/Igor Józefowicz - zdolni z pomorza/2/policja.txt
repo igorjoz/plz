@@ -1,0 +1,9 @@
+Idp Nazwisko
+1 Grozny
+2 Laskawy
+3 Polubowny
+4 Natarczywy
+5 Kompetentna
+6 Marudny
+7 Dziwny
+8 Markotna

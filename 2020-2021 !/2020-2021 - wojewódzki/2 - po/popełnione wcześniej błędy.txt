@@ -1,0 +1,2 @@
+1. brak korygowania iteratora i (po znalezieniu pasujących kodów: i = startIndex + k - 1)
+2. else if (x[j + 1].code.length() != k) { k++; }
