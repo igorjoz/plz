@@ -1,0 +1,301 @@
+identyfikator ucznia	imiê	nazwisko	nazwa szko³y	miejscowoœæ	klasa	okrêg
+1	Aleksander	Kowalski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	1	 VI
+2	Stanis³aw	Jankowski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+3	Bartosz	Luty	X Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+4	Bart³omiej	Marzec	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+5	Maciej	Styczeñ	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	1	 VIII
+6	Artur	Maj	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	2	 VIII
+7	Jakub	Czerwiec	VII Liceum Ogólnokszta³c¹ce  im. Wandy Szuman	Toruñ	2	 VIII
+8	Krzysztof	Ma³y	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+9	Krzysztof	Duzy	V Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+10	Adam	Konopacki	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+11	Piotr	Popio³ek	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+12	Micha³	Kowalonek	V Liceum Ogólnokszta³c¹ce	Bielsko-Bia³a	3	 IV
+13	Marcin	Zawadzki	VII Liceum Ogólnokszta³c¹ce  im. Wandy Szuman	Toruñ	1	 VIII
+14	Pawe³	Œmigielski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+15	Rados³aw	Pop³awski	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+16	Rafa³	Basik	Zespó³ Szkó³ Ogólnokszta³c¹cych Nr  3	Bia³a Podlaska	3	 I
+17	Sebastian 	Urbañski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+18	Tomek	Szczepañski	Regionalne Centrum Edukacji Zawodowej	Bi³goraj	3	 III
+19	Mateusz	Konopacki	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+20	Micha³	Su³kowski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	3	 VI
+21	Marcel	Kosiñski	I Liceum Ogólnokszta³c¹ce im. Adama Mickiewicza	Bia³ystok	1	 I
+22	Maciej	Krawiec	VII Liceum Ogólnokszta³c¹ce  im. Wandy Szuman	Toruñ	2	 VIII
+23	Maciej	Zieliñski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+24	Adam	Chudañski	XXXVII Liceum Ogólnokszta³c¹ce	Warszawa	3	 II
+25	Piotr	Kulik	Liceum Ogólnokszta³c¹ce	Gi¿ycko	1	 I
+26	Mi³osz	Giza	VI Liceum Ogólnokszta³c¹ce im. Króla Zygmunta Augusta	Bia³ystok	2	 I
+27	Micha³	Gromadzki	I Liceum Ogólnokszta³c¹ce	Tychy	2	 IV
+28	Micha³	Kowal	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	3	 V
+29	Konrad	Grabowski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+30	Damian	Ma³achowski	Zespó³ Szkó³ Integracyjnych nr 1	Bia³ystok	3	 I
+31	Marcin	Muzalewski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+32	Wojciech	Kopczyñski	Liceum Ogólnokszta³c¹ce Nr VIII	Wroc³aw	3	 V
+33	Micha³	Krawczyk	XXVII Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+34	Bart³omiej	Adamczyk	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 2	Bia³ystok	2	 I
+35	Filip	Warta	I Liceum Ogólnokszta³c¹ce	£ódŸ	2	 II
+36	Tomasz	Skowronek	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+37	Konrad	 Kos	Katolickie Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+38	Micha³	Zieliñski	I Liceum Ogólnokszta³c¹ce  im. Cypriana Kamila Norwida	Bydgoszcz	2	 VI
+39	Kamil	Kowalczyk	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+40	Maciej	Salamoñczyk	V Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+41	Kamil	Wolniewicz	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+42	Krzysztof	Rujner	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	3	 V
+43	Robert	¯abiñski	Zespó³ Szkó³	Biskupiec	2	 I
+44	£ukasz	¯óltowski	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	3	 II
+45	Wojtek	Bas	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	1	 VIII
+46	Witold	Królikowski	I Liceum Ogólnokszta³c¹ce	Katowice	2	 IV
+47	Janusz	Szmigiel	Gimnazjum nr 9 im. Powstañców Wielkopolski	Bydgoszcz	2	 VI
+48	£ukasz	Wroñski	Gimnazjum nr 2 im. Adama Mickiewicza	Kraków	3	 IV
+49	Jakub	Tomkiewicz	V Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+50	Karol	Tomaszewski	X Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+51	Teodor	Rudnicki	I Liceum Ogólnokszta³c¹ce im. Stanis³awa Staszica	Chrzanów	2	 IV
+52	Micha³	Bro¿ek	VIII Liceum Ogólnokszta³c¹ce im. Adama Mickiewicza	Poznañ	3	 VI
+53	Krzysztof	Kowalik	VI Liceum Ogólnokszta³c¹ce	Radom	2	 II
+54	Kacper	Skórka	I Liceum Ogólnokszta³c¹ce im. Miko³aja Kopernik	Gdañsk	3	 VIII
+55	Szymon	Pacholski	II Liceum Ogólnokszta³c¹ce	Nowy S¹cz	2	 IV
+56	Patrick	Paciorek	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+57	Jakub	Podolski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	1	 VI
+58	Krzysztof	Milewski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+59	Bartosz	Potocki	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+60	Arkadiusz	Witkowski	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	3	 VIII
+61	Wiktor	Wujec	Zespó³ Szkó³ Technicznych	Che³m	1	 III
+62	Grzegorz	Wierzbicki	X Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+63	Micha³	Matuszczak	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+64	Konrad	Gierszewski	III Liceum Ogólnokszta³c¹ce	D¹browa Górnicza	3	 IV
+65	Micha³	Jankowski	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+66	Katarzyna	Boczek	Katolickie Liceum Ogólnokszta³c¹ce	Legnica	3	 V
+67	Norbert	Adamczyk	V Liceum Ogólnokszta³c¹ce	Gdañsk	2	 VIII
+68	Jakub	Krojczyk	Prywatne Liceum Ogólnokszta³c¹ce Jêzykowo-Informatyczne	Poznañ	3	 VI
+69	Karol	Wapolski	II Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+70	Mateusz	Mamset	I Liceum Ogólnokszta³c¹ce	Ciechanów	2	 II
+71	Mateusz	Szychowiak	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+72	Krzysztof	Czeka³a	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+73	Tomasz	Bilski	II Liceum Ogólnokszta³c¹ce	Nowy S¹cz	1	 IV
+74	Patryk	Rybiñski	Gimnazjum Katolickie im. œw. Królowej Jadwigi	Czêstochowa	2	 II
+75	Piotr	Pydrowski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 3	Poznañ	2	 VI
+76	Rados³aw	Bia³ek	Zespó³ Szkó³ Integracyjnych im.Piastów Œl¹skich	Legnica	3	 V
+77	Wojciech	Szulczyk	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+78	Piotr	Ga³szka	VIII Liceum Ogólnokszta³c¹ce im. Adama Mickiewicza	Poznañ	3	 VI
+79	Franciszek	Huryszewski	Akademickie Liceum Ogólnokszta³c¹ce	Warszawa	2	 II
+80	Aleksander	Karpiñski	IX Liceum Ogólnokszta³c¹ce	Czêstochowa	3	 II
+81	Marcin	Dere¿yñski	I Liceum Ogólnokszta³c¹ce	Legnica	1	 V
+82	Szymon	Kociemba	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	2	 V
+83	Rafa³	Karczewski	Akademickie Liceum Ogólnokszta³c¹ce	Warszawa	2	 II
+84	Maciej	Kaczmarek	III Liceum Ogólnokszta³c¹ce	Lublin	3	 III
+85	Karol	Melosik	Liceum Ogólnokszta³c¹ce Nr VIII	Wroc³aw	1	 V
+86	Karol	Machiñski	I Liceum Ogólnokszta³c¹ce im. Edwarda Dembowskiego	Zielona Góra	2	 VII
+87	Tomasz	Kaczmarek	Gimnazjum FILOMATA	Gliwice	2	 IV
+88	Jakub	Sa³ek	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+89	Maciej	Adamski	Liceum Ogólnokszta³c¹ce Nr VIII	Wroc³aw	2	 V
+90	Krzysztof	Kabaciñski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	3	 VI
+91	Mateusz	Owczarzak	Zespó³ Szkó³ nr 7	Lublin	2	 III
+92	Maciej	Markiewicz	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+93	Antoni	Majchrzak	"Spo³eczne LO nr 1 Autorska Szko³a Samorozwoju ""ASSA"""	Wroc³aw	1	 V
+94	Tomasz	Nobik	Gimnazjum nr 24 (Zespó³ Szkól Ogólnokszta³c¹cych nr 1)	Gdynia	2	 VIII
+95	Mateusz	Zieliñski	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+96	Anna	Doliwa	Publiczne Gimnazjum nr 8 im. Tadeusza Koœciuszki	£ódŸ	3	 II
+97	Wojciech	Bryzik	X Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+98	Pawe³	W³odarczak	III Liceum Ogólnokszta³c¹ce	Zabrze	2	 IV
+99	Krzysztof	Jeziorek	X Liceum Ogólnokszta³c¹ce	Wroc³aw	2	 V
+100	Przemys³aw 	Ganszewski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+101	Dariusz	Kubaczyk	I Liceum Ogólnokszta³c¹ce	Rzeszów	2	 III
+102	Pawe³	Burakowski	Zespó³ Szkó³ Elektronicznych i Samochodowych	Zielona Góra	3	 VII
+103	Piotr	Worowski	I Liceum Ogólnokszta³c¹ce im. B. Prusa	Siedlce	2	 II
+104	Piotr	Lipert	Zespó³ Szkó³ Ponadgimnazjalnych Nr 1 im.M Kopernika	Kalisz	3	 VI
+105	Tomasz	S³owik	II Liceum Ogólnokszta³c¹ce	Jaworzno	1	 IV
+106	Micha³	Paszkowski	Zespó³ Szkó³ Nr 14	Wroc³aw	2	 V
+107	Patryk	Balcerski	Zespó³ Szkó³ nr 1 im Jana Paw³a II 	Przysucha	2	 II
+108	Kamil Marcin	Bartczak	Liceum Ogólnokszta³c¹ce Politechniki £ódzkiej	£ódŸ	3	 II
+109	Krzysztof	W³odarczak	II Liceum Ogólnokszta³c¹ce im. Miko³aja Kopernika	Kêdzierzyn-KoŸle	1	 IV
+110	Maciej	Walkowiak	Liceum Ogólnokszta³c¹ce	Gi¿ycko	2	 I
+111	Micha³	Wnyk	Publiczne Gimnazjum	Przysucha	2	 II
+112	Grzegorz	P³oczyñski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+113	Maciej	Chmielewski	XXXI Liceum Ogólnokszta³c¹ce im.  Ludwika Zamenhofa	£ódŸ	2	 II
+114	Rados³aw	Sarniacki	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+115	Pawe³	Liberkowski	I Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	£om¿a	2	 II
+116	Aleksander	Fiedler	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	3	 VI
+117	£ukasz	Szulc	VI Liceum Ogólnokszta³c¹ce	Radom	1	 II
+118	Micha³	Zawierucha	Zespó³ Szkó³ Licealnych	Przasnysz	2	 II
+119	£ukasz	Wylega³a	I Liceum Ogólnokszta³c¹ce	£ódŸ	2	 II
+120	Wojciech	Kubiak	Gimnazjum nr 1 im. œw. Jadwigi Królowej	Jas³o	3	 III
+121	Piotr	Kryger	I Liceum Ogólnokszta³c¹ce	Jas³o	1	 III
+122	Piotr	O¿arowski	Liceum Ogólnokszta³c¹ce Politechniki £ódzkiej	£ódŸ	2	 II
+123	Tomasz	Manicki	II Liceum Ogólnokszta³c¹ce	Mielec	2	 III
+124	Kamil	Jarzyniewski	Zespó³ Szkó³ Ogólnokszta³c¹cych Nr 1	Nowy S¹cz	3	 IV
+125	Piotr	Sobiak	I Liceum Ogólnokszta³c¹ce	£ódŸ	2	 II
+126	Krzysztof	Kempa	III Liceum Ogólnokszta³c¹ce	Lublin	3	 III
+127	Piotr Adam	Drzewiecki	I Liceum Ogólnokszta³c¹ce	Gliwice	2	 IV
+128	Piotr	Bartczak	Katolickie Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+129	Konrad	Stanis³awski	V Liceum Ogólnokszta³c¹ce	Gdañsk	1	 VIII
+130	Katarzyna	Weso³owski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 3	Poznañ	2	 VI
+131	Grzegorz	Szymañski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+132	Jan Kanty	W³odarczak	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+133	Wiktor	Przybylak	II Liceum Ogólnokszta³c¹ce	Nowy S¹cz	1	 IV
+134	Kamil	Buksakowski	Zespó³ Szkó³ im. Emilii Sczanieckiej	Pniewy	2	 VI
+135	£ukasz	Ludwiczak	III Liceum Ogólnokszta³c¹ce	D¹browa Górnicza	2	 IV
+136	Wojciech	Wojtyniak	"Liceum ""Filomata"""	Gliwice	3	 IV
+137	Kacper	Mañka	Katolickie Liceum Ogólnokszta³c¹ce	Katowice	2	 IV
+138	Wojciech	Grubiñski	Zespó³ Szkó³ Licealnych	Przasnysz	3	 II
+139	Mateusz	Paszczak	Zespó³ Szkó³ Ogólnokszta³c¹cych Nr 1	Nowy S¹cz	2	 IV
+140	Jadwiga	Bartol	I Liceum Ogólnokszta³c¹ce	Sieradz	3	 II
+141	Andrzej	Witek	Liceum Ogólnokszta³c¹ce	Ryki	1	 III
+142	Stanis³aw	Pogorzelec	I Zespó³ Szkó³ Ogólnokszta³c¹cych	Jawor	2	 V
+143	Jakub	Jaworski	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	2	 V
+144	Sebastian	Cegielski	Zespó³ Szkó³ Ogólnokszta³c¹cych Nr 1	Jelenia Góra	3	 V
+145	Konrad	Korzeniowski	Zespó³ Szkó³ nr 28	Warszawa	1	 II
+146	Tom	Krawczyk	Zespó³ Szkó³ Ogólnokszta³c¹cych	Nowy Targ	2	IV
+147	Tomasz	Janik	Liceum Ogólnokszta³c¹ce im. W³. Broniewskiego	Krzepice	2	 IV
+148	Damian	Felski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 2	Olsztyn	3	 I
+149	Rafa³	Kokociñski	I Liceum Ogólnokszta³c¹ce im. S. ¯eromskiego	Kielce	2	 II
+150	Anna	Torczyñski	V Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+151	Mateusz	Karwacki	II Liceum Ogólnokszta³c¹ce	Rybnik	2	 IV
+152	Adam	Bartkowiak	I Liceum Ogólnokszta³c¹ce	Jas³o	3	 III
+153	Krzysztof	Szmyt	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	1	 VIII
+154	Marek	Polewski	I Liceum Ogólnokszta³c¹ce	Ozorków	2	 II
+155	Wojciech	Marciniec	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+156	Piotr	Bukowski	I Liceum Ogólnokszta³c¹ce	Katowice	3	 IV
+157	Wojciech	Bresiñski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	1	 VIII
+158	Mieszko	Pertek	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	2	 V
+159	£ukasz	Perz	IV Liceum Ogólnokszta³c¹ce im. Marii Sk³odowskiej-Curie	Olsztyn	2	 I
+160	Micha³	Tomczak	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	3	 II
+161	Marcin	Konik	II Liceum Ogólnokszta³c¹ce	Jaworzno	2	 IV
+162	Maciej	Plewa	Katolickie Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+163	Krzysztof	Naro¿ny	VI LO im. Jana Kochanowskiego	Radom	2	 II
+164	Karol	Cieœlik	Zespó³ Szkó³ Ogólnokszta³c¹cych	Nowy Targ	3	IV
+165	Micha³	Ludwiczak	V Liceum Ogólnokszta³c¹ce	Gdañsk	1	 VIII
+166	Filip	Œmigaj	Katolickie Liceum Ogólnokszta³c¹ce	Katowice	2	 IV
+167	Tadeusz	Borowski	I Liceum Ogólnokszta³c¹ce	Legnica	2	 V
+168	Wojciech	Ciesielczyk	Zespó³ Szkó³ Ogólnokszta³c¹cych Nr 1	Olsztyn	3	 I
+169	Kajetana	Ozimska	Zespó³ Szkó³ Ogólnokszta³c¹cych	Kartuzy	1	 VIII
+170	Jakub	Miko³ajczak	II Liceum Ogólnokszta³c¹ce	Tarnowskie Góry	2	 IV
+171	Andrzej	Krylacki	Gimnazjum nr 2 im. Adama Mickiewicza	Kraków	2	 IV
+172	Jan	Ulatowski	Zespó³ Szkó³	Radom	3	 II
+173	Jacek	Szkudlarek	Zespó³ Szkó³ im. A. Mickiewicza	¯o³ynia	2	 III
+174	£ukasz	Owczarzak	II Liceum Ogólnokszta³c¹ce im. Miko³aja Kopernika	Kêdzierzyn-KoŸle	3	 IV
+175	Micha³	Dobrzycki	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+176	Konrad	Kaczmarek	Gimnazjum nr 24 (Zespó³ Szkól Ogólnokszta³c¹cych nr 1)	Gdynia	3	 VIII
+177	Karol	Guzy	I Liceum Ogólnokszta³c¹ce im. Oskara Kolberga	Koœcian	1	 VI
+178	Marek	Grzeszczyk	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+179	Krzysztof	Borysiak	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+180	Tomasz	Murawski	VIII Liceum Ogólnokszta³c¹ce	Katowice	3	 IV
+181	£ukasz	Majsnerowski	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	1	 VIII
+182	Robert	Nowak	Gimnazjum i Liceum im. Jana Paw³a II Sióstr Prezentek	Rzeszów	2	 III
+183	Filip	Michalak	I Liceum Ogólnokszta³c¹ce	Jas³o	2	 III
+184	Piotr	Filusz	Gimnazjum nr 2 im. Adama Mickiewicza	Kraków	3	 IV
+185	Maciek	Manicki	Zespó³ Szkó³ Licealnych	Przasnysz	2	 II
+186	Piotr	Olejnik	II Liceum Ogólnokszta³c¹ce	Rybnik	3	 IV
+187	Pawe³	Maækowiak	IV Liceum Ogólnokszta³c¹ce im. Hanki Sawickiej	Kielce	2	 II
+188	Piotr	Królik	"Salezjañski Zespó³ Szkó³ Publicznych ""Don Bosko"""	Œwiêtoch³owice	3	 IV
+189	Pawe³	Nobik	III Liceum ogólnokszta³c¹ce im. Adama Mickiewicza	Tarnów	1	 IV
+190	Pawe³	B¹k	VI Liceum Ogólnokszta³c¹ce im. J. S³owackiego	Kielce	2	 II
+191	Damian	Kapski	III Liceum Ogólnokszta³c¹ce	Lublin	2	 III
+192	Patryk	Kruk	I Liceum Ogólnokszta³c¹ce	Rzeszów	3	 III
+193	£ukasz	Cudo	X Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+194	Stanis³aw	O¿arowski	Ponadgimnazjalne IV Liceum Ogólnokszta³c¹ce	Rzeszów	2	 III
+195	Maksymilian	Karolak	Technikum Nr 7	Kielce	2	 II
+196	£ukasz	Karasiñski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+197	Maciej	Jakolewski	Gimnazjum nr 16 im. Króla Stefana Batorego	Kraków	2	 IV
+198	Piotr	Owczarzak	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	3	 VI
+199	Artur	Czechowski	Zespó³ Szkó³ Ekonomicznych	Rzeszów	2	 III
+200	Micha³	Kosicki	Liceum Ogólnokszta³c¹ce im Marii D¹browskiej	Komorów	3	 II
+201	Krzysztof	Kurach	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	1	 VIII
+202	Robert	Furmaniuk	Zespó³ Szkó³ Elektrycznych	Kielce	2	 II
+203	Mateusz	Janicki	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+204	Michalina	Wojciechowska	Ponadgimnazjalne IV Liceum Ogólnokszta³c¹ce	Rzeszów	3	 III
+205	Pawe³	Borowczyk	VI Liceum Ogólnokszta³c¹ce im. Króla Zygmunta Augusta	Bia³ystok	1	 I
+206	Pawe³	Ozimski	I Liceum Ogólnokszta³c¹ce	Katowice	2	 IV
+207	Agata	Cicha	Zespó³ Szkó³ Licealnych	Przasnysz	2	 II
+208	Arkadiusz	Szymkowiak	Liceum Ogólnokszta³c¹ce im Boles³awa Prusa	Skierniewice	3	 II
+209	Mateusz	Miko³ajczak	Katolickie Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+210	Piotr	Musia³	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+211	Micha³	Lipiñski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+212	Jakub	Wieczorek	I Liceum Ogólnokszta³c¹ce	Kutno	3	 II
+213	Krzysztof	Trzaskawka	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	1	 V
+214	Micha³	Jarmu¿kiewicz	I Liceum Ogólnokszta³c¹ce im. Marii Konopnickiej	Suwa³ki	2	 I
+215	Paulina	Wiatrowska	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+216	Mateusz	Karolczyk	II Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+217	Darek	Musia³	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	1	 VI
+218	Mateusz	Duda	Zespó³ Szkó³	Sokó³ka	2	 I
+219	Szymon	Mendelewski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+220	Micha³	K³ossowski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+221	Mateusz	Stefañski	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+222	Krzysztof	D³utkowski	X Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+223	Tomasz	Okoñski	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	2	 VIII
+224	Patryk	Szyler	I Liceum Ogólnokszta³c¹ce im. B. Prusa	Siedlce	3	 II
+225	Pawe³	Hofmann	X Liceum Ogólnokszta³c¹ce	Kraków	1	 IV
+226	Marek	Maækowiak	Liceum Ogólnokszta³c¹ce im. Marsza³ka Józefa Pi³sudskiego	S³upca	2	 VI
+227	Mi³osz	Krakowski	Akademickie Liceum Ogólnokszta³c¹ce	Warszawa	2	 II
+228	Aleksander	Gilewicz	I Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+229	Jan	Kaczmarek	VII Liceum Ogólnokszta³c¹ce  im. Wandy Szuman	Toruñ	1	 VIII
+230	Miko³aj	Paszczak	I Liceum Ogólnokszta³c¹ce	Sieradz	2	 II
+231	Marcin	Roszczka	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+232	Karol	Kaczmarek	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	3	 VIII
+233	Tomasz	Chojnacki	Liceum Ogólnokszta³c¹ce im Boles³awa Prusa	Skierniewice	2	 II
+234	Tomasz	Zimiñski	V Liceum Ogólnokszta³c¹ce	Kraków	3	 IV
+235	Krzysztof	Dyrda³	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	2	 II
+236	Mateusz	Lipiñski	XIII Liceum Ogólnokszta³c¹ce	Szczecin	3	VII
+237	Filip	Ciupka	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	1	 V
+238	Piotr	Michalski	I Liceum Ogólnokszta³c¹ce	Tychy	2	 IV
+239	Grzegorz	Duszyñski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+240	Piotr Micha³	Strasz	I Liceum Ogólnokszta³c¹ce	Legnica	3	 V
+241	Wojciech	Kabaciñski	"Salezjañski Zespó³ Szkó³ Publicznych ""Don Bosko"""	Œwiêtoch³owice	1	 IV
+242	Pawe³	Wendland	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+243	Jakub	Lotka	Zespó³ Szkó³ Mechaniczno-Elektrycznych	¯ywiec	2	 IV
+244	Grzgorz	Wróblewski	IV Liceum Ogólnokszta³c¹ce im. Tadeusza Koœciuszki	Toruñ	3	 VIII
+245	£ukasz	Królik	I Liceum Ogólnokszta³c¹ce	Legnica	2	 V
+246	Tomasz	B¹kowski	Ponadgimnazjalne IV Liceum Ogólnokszta³c¹ce	Rzeszów	3	 III
+247	Szymon	Kapski	II Liceum Ogólnokszta³c¹ce	Tarnowskie Góry	2	 IV
+248	Aleksandra	Kruk	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+249	Piotr	Cudo	Zespó³ Szkó³ im. A. Mickiewicza	¯o³ynia	1	 III
+250	Kinga	O¿arowska	VII Liceum Ogólnokszta³c¹ce  im. Wandy Szuman	Toruñ	2	 VIII
+251	Micha³	Karolak	Liceum Ogólnokszta³c¹ce im. W³. Broniewskiego	Krzepice	2	 IV
+252	Jerzy	Król	Zespó³ Szkó³ Ogólnokszta³c¹cych	Kartuzy	3	 VIII
+253	Albert	Majewski	III Liceum ogólnokszta³c¹ce im. Adama Mickiewicza	Tarnów	1	 IV
+254	Micha³	Owczarzak	I Liceum Ogólnokszta³c¹ce	Rzeszów	2	 III
+255	Wojciech	Czeszewski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	2	 VIII
+256	Tomasz	Piotrowski	Zespó³ Szkó³ Mechaniczno-Elektrycznych	Tarnów	3	 IV
+257	Albert	Polañski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	2	 VIII
+258	Micha³	Furmaniuk	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	3	 II
+259	Adam	Janowski	Zespó³ Szkó³ Ogólnokszta³c¹cych nr 6	Bydgoszcz	2	 VI
+260	Mateusz	Wojciechowski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	3	 VIII
+261	Tomasz	Borowiak	Gimnazjum nr 42 z oddzia³ami dwujêzycznymi	Warszawa	1	 II
+262	Alan	Ozimski	II Liceum Ogólnokszta³c¹ce	Tarnowskie Góry	2	 IV
+263	Kornel	Cichy	XLVII Liceum Ogólnokszta³c¹ce	Warszawa	2	 II
+264	S³awomir	Szymkowiak	I Liceum Ogólnokszta³c¹ce	Tychy	3	 IV
+265	Marek	Miko³ajczak	Gimnazjum nr 86 im. p³k Ignacego Augusta Boernera	Warszawa	1	 II
+266	Miko³aj	Musia³owski	IV Liceum Ogólnokszta³c¹ce im. Hanki Sawickiej	Kielce	2	 II
+267	Micha³	Lipiñski	V Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+268	Tomasz	Wieczorek	XIV Liceum Ogólnokszta³c¹ce	Warszawa	3	 II
+269	Karol	Trzaskowski	Liceum Ogólnokszta³c¹ce nr III	Wroc³aw	2	 V
+270	Krystian	Jarmulewicz	Publiczne Gimnazjum	Przysucha	3	 II
+271	Micha³	Wiatrowski	II Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+272	Micha³	Karolczak	Gimnazjum spo³eczne nr 333	Warszawa	3	 II
+273	Grzegorz	Musia³owski	XXVII Liceum Ogólnokszta³cace im. Tadeusza Czackiego	Warszawa	1	 II
+274	Micha³	Duda	I Liceum Ogólnokszta³c¹ce im. Edwarda Dembowskiego	Zielona Góra	2	 VII
+275	Konrad	Mendelewski	XIII Gimnazjum im. Stanis³awa Staszica	Warszawa	2	 II
+276	Pawe³	Talarczyk	Zespó³ Szkó³ Technicznych	Che³m	3	 III
+277	Artur	Wawrzyniak	Liceum Ogólnokszta³c¹ce	Gi¿ycko	1	 I
+278	Piotr	Szymkowiak	I Liceum Ogólnokszta³c¹ce	Krosno	2	 III
+279	Maciej	Hayto	Gimnazjum nr 1 im. H.D. Steinhausa	Wroc³aw	2	 V
+280	Jakub	Ja³ukowicz	I Liceum Ogólnokszta³c¹ce	Ozorków	3	 II
+281	Damian	W³odarczak	"Spo³eczne Gimnazjum ""Dwójka"" Nr 45"	Warszawa	2	 II
+282	Micha³	Przybylski	Katolickie Liceum Ogólnokszta³c¹ce	Katowice	3	 IV
+283	Wojciech	Daniszewski	Liceum Ogólnokszta³c¹ce im. W³. Broniewskiego	Krzepice	2	 IV
+284	Karol	Wyszkowski	III Liceum Ogólnokszta³c¹ce im. Marynarki Wojennej RP	Gdynia	3	 VIII
+285	Krzysztof	Wosiñski	Zespó³ Szkó³ UMK Gimnazjum i Liceum Akademickie	Toruñ	1	 VIII
+286	Jakub	Czapla	Zespó³ Szkó³ Technicznych 	Wodzis³aw Œl¹ski	2	 IV
+287	Stanis³aw	Szofer	Katolickie Liceum Ogólnokszta³c¹ce	Legnica	2	 V
+288	Mateusz	Zaworski	VIII LO i 58 Gimnazjum im. W³adys³awa IV	Warszawa	3	 II
+289	Mateusz	Stawiarz	II Liceum Ogólnokszta³c¹ce	Nowy S¹cz	1	 IV
+290	Kuba	Nowak	Publiczne Gimnazjum	Przysucha	2	 II
+291	Patryk	Kotecki	Zespó³ Szkó³ nr 28	Warszawa	2	 II
+292	Maciej	Osika	Katolickie Liceum Ogólnokszta³c¹ce	Legnica	3	 V
+293	Kamil	Kalecki	XXVII Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+294	Bart³omiej	WoŸniak	Zespó³ Szkó³ Ogólnokszta³c¹cych	Nowy Targ	3	IV
+295	Dawid	Gierczyñski	VIII LO i 58 Gimnazjum im. W³adys³awa IV	Warszawa	2	 II
+296	Tomasz	Puk	Gimnazjum im. Jerzego Andrzeja Helwinga	Wêgorzewo	3	 I
+297	Krzysztof	Kaczmarek	XXXI Liceum Ogólnokszta³c¹ce im.  Ludwika Zamenhofa	£ódŸ	1	 II
+298	Ewa	Socha	XIII Liceum Ogólnokszta³c¹ce	Kraków	2	 IV
+299	Krzysztof	Strasz	Zespó³ Szkó³ Mechaniczno-Elektrycznych	¯ywiec	2	 IV
+300	Robert	Pawlak	XXXVII Liceum Ogólnokszta³c¹ce	Warszawa	3	 II
